@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Trym Langballe"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: about.qmd
+        text: About
+
+      - href: reading.qmd
+        text: Further Reading
+
+format:
+  html:
+    theme: cosmo
+    toc: true
