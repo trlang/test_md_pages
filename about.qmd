@@ -1,0 +1,19 @@
+---
+title: About
+---
+
+# About
+
+I am a data analyst working with Python.
+
+## Interests
+
+- Data analysis
+- Statistical methods
+- Machine learning
+- Software development
+
+## Contact
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: Add your profile
