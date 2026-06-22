@@ -1,2 +1,7 @@
-title: Nettsiden
-theme: minima
+
+title: Nettside
+
+header_pages:
+  - index.md
+  - about.md
+  - reading.md
