@@ -1,0 +1,20 @@
+---
+title: Further Reading
+---
+
+# Further Reading
+
+## Statistics
+
+- Article 1
+- Article 2
+
+## Python
+
+- Resource 1
+- Resource 2
+
+## Data Science
+
+- Resource 1
+- Resource 2
